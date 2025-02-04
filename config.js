@@ -49,7 +49,7 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "❌PAY_EVIL_WITH_EVIL❌",
-  author: process.env.PACK_AUTHER || "FRECYBER",
+  author: process.env.PACK_AUTHER || "GODWIN",
   packname: process.env.PACK_NAME || "♥️",
   botname: process.env.BOT_NAME || "❌G҉O҉D҉W҉I҉N҉❌",
   ownername: process.env.OWNER_NAME || "❌G҉O҉D҉W҉I҉N҉❌",
